@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate Software Engineer at [@Quixel](https://github.com/Quixel), working in the React JS, Node.JS and Javascript Ecosystem.
+I am a passionate Software Engineer currently doing my Masters in Computer Science, previously i have been working at [@Quixel](https://github.com/Quixel) in the React JS, Node.JS and Javascript Ecosystem.
 I am a big fan of JavaScript and love the ecosystem, and explore the world of Machine Learning in my spare time. 
 
 I occasionally blog on Medium and Dev in my free time.
